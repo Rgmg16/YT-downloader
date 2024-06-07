@@ -31,5 +31,3 @@ if __name__ == "__main__":
 
     # Download the video
     download_video(video_url, download_path)
-    
-    # "C:\Users\hp\Downloads"
